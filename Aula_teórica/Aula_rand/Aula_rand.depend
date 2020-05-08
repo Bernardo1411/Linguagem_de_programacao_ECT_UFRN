@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552140869 source:c:\users\berna_000\dropbox\linguagem de programação\aula_teórica\aula_rand\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
